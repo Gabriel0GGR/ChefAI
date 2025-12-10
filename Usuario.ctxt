@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=
+comment1.target=Usuario()
+comment2.params=ingrediente
+comment2.target=void\ adicionarIngrediente(Ingrediente)
+comment3.params=
+comment3.target=java.util.List\ getIngredientesDisponiveis()
+comment4.params=
+comment4.target=boolean\ isVegetariano()
+comment5.params=vegetariano
+comment5.target=void\ setVegetariano(boolean)
+comment6.params=
+comment6.target=boolean\ isSemLactose()
+comment7.params=semLactose
+comment7.target=void\ setSemLactose(boolean)
+comment8.params=
+comment8.target=boolean\ isSemGluten()
+comment9.params=semGluten
+comment9.target=void\ setSemGluten(boolean)
+numComments=10

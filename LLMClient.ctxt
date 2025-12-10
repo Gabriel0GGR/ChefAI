@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LLMClient
+comment1.params=ingredientes\ vegetariano\ semLactose\ semGluten
+comment1.target=java.util.List\ obterSugestoes(java.util.List,\ boolean,\ boolean,\ boolean)
+comment2.params=ingredientes\ veg\ sl\ sg
+comment2.target=java.lang.String\ montarPrompt(java.util.List,\ boolean,\ boolean,\ boolean)
+comment3.params=body
+comment3.target=java.lang.String\ fazerRequisicaoAPI(java.lang.String)
+comment4.params=is
+comment4.target=java.lang.String\ lerStream(java.io.InputStream)
+comment5.params=jsonResponse
+comment5.target=java.util.List\ parsearRespostaReal(java.lang.String)
+comment6.params=ingredientes
+comment6.target=java.util.List\ criarReceitasSimuladas(java.util.List)
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Receita
+comment1.params=nome\ ingredientesNecessarios\ modoPreparo\ tempoPreparo
+comment1.target=Receita(java.lang.String,\ java.util.List,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.util.List\ getIngredientesNecessarios()
+comment4.params=
+comment4.target=java.lang.String\ getModoPreparo()
+comment5.params=
+comment5.target=int\ getTempoPreparo()
+numComments=6

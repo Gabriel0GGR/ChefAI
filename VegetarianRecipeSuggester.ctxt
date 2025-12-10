@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=VegetarianRecipeSuggester
+comment1.params=client
+comment1.target=VegetarianRecipeSuggester(LLMClient)
+comment2.params=ingredientes\ vegetariano\ semLactose\ semGluten
+comment2.target=java.util.List\ sugerir(java.util.List,\ boolean,\ boolean,\ boolean)
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ChefAI
+comment1.params=
+comment1.target=ChefAI()
+comment2.params=
+comment2.target=void\ iniciarAplicacao()
+comment3.params=scanner
+comment3.target=void\ cadastrarIngredientes(java.util.Scanner)
+comment4.params=scanner
+comment4.target=void\ configurarRestricoesAlimentares(java.util.Scanner)
+comment5.params=scanner
+comment5.target=void\ obterSugestoesReceitas(java.util.Scanner)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
