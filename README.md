@@ -57,3 +57,36 @@
 4. Siga as instruções no console
 
 ![mermaid-drawing](https://github.com/user-attachments/assets/14d1a4c5-16bd-42c6-a5f0-5d07be54b07a)
+
+### Exemplo
+```
+=== Bem-vindo ao ChefAI ===
+Adicione os ingredientes que você tem em casa:
+Nome do ingrediente (ou 'fim' para terminar): frango
+Quantidade em gramas: 300
+Nome do ingrediente: arroz
+Quantidade em gramas: 400
+Nome do ingrediente: tomate
+Quantidade em gramas: 200
+Nome do ingrediente: fim
+
+Vegetariano? (s/n): n
+Sem lactose? (s/n): s
+Sem glúten? (s/n): n
+
+=== Sugestões de Receitas ===
+
+--- Receita 1 ---
+Nome: Frango com Arroz e Tomate
+Tempo de preparo estimado: 25 minutos
+
+Ingredientes necessários:
+  frango: 250g ✓ Você já tem
+  arroz: 200g ✓ Você já tem
+  tomate: 150g ✓ Você já tem
+  cebola: 50g ✗ Necessário
+
+Modo de preparo:
+  1. Refogue a cebola e o alho...
+  2. Adicione o frango em pedaços...
+  ...
