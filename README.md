@@ -29,11 +29,11 @@
 
 ### Dependência Externa
 - **Gson** (Google JSON library)  
-  Link direto: [gson-2.3.1.jar](https://repo1.maven.org/maven2/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar)
+  Link direto: [gson-2.9.1.jar](https://repo1.maven.org/maven2/com/google/code/gson/gson/2.9.1/gson-2.9.1.jar)
 
 ### Como configurar no BlueJ (passo a passo)
 
-1. Baixe o arquivo `gson-2.3.1.jar`
+1. Baixe o arquivo `gson-2.9.1.jar`
 2. No BlueJ:  
    `Tools → Preferences → Libraries → Add File`  
    Selecione o `.jar` baixado
