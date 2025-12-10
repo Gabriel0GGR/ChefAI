@@ -48,3 +48,5 @@
    ```txt
    openrouter_api_key=SUA_CHAVE_AQUI
 5. Selecione outro modelo de AI caso queira (para isso basta editar a classe <b>LLMClient</b> em request.addProperty("model", "<b><i>*AQUI*</b></i>")) ou mantenha o padrão.
+
+![mermaid-drawing](https://github.com/user-attachments/assets/14d1a4c5-16bd-42c6-a5f0-5d07be54b07a)
