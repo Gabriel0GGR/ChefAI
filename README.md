@@ -49,4 +49,11 @@
    openrouter_api_key=SUA_CHAVE_AQUI
 5. Selecione outro modelo de AI caso queira (para isso basta editar a classe <b>LLMClient</b> em request.addProperty("model", "<b><i>*AQUI*</b></i>")) ou mantenha o padrão.
 
+### Para executar
+
+1. Abra o projeto no BlueJ
+2. Clique com o botão direito na classe ChefAI
+3. Selecione void main(String[] args)
+4. Siga as instruções no console
+
 ![mermaid-drawing](https://github.com/user-attachments/assets/14d1a4c5-16bd-42c6-a5f0-5d07be54b07a)
