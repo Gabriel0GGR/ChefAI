@@ -56,6 +56,7 @@
 3. Selecione void main(String[] args)
 4. Siga as instruções no console
 
+### Diagrama de classes
 ![mermaid-drawing](https://github.com/user-attachments/assets/14d1a4c5-16bd-42c6-a5f0-5d07be54b07a)
 
 ### Exemplo
